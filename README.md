@@ -36,7 +36,7 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/swagging-post/Blooket-Cheeto#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/swagging-post/Blooket-Cheeto/issues)
+Make sure you're running it properly (see [How to use](https://github.com/BI66IE619/Blooket-Hacks-GUI#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/BI66IE619/Blooket-Hacks-GUI/issues)
 </details>
 
 <details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
