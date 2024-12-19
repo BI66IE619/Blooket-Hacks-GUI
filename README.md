@@ -2,7 +2,6 @@
 Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
 # READ FOR IMPORTANT INFO! | V2.
-A reupload, but currently being fixed of my stolen Blooket Cheats.
 
 <p align="center">Cheats being managed by BI66IE619.</p>
 <p align="center">🚨 THIS IS A PARODY GUI, THIS DOESN'T WORK CORRECTLY! 🚨</p>
