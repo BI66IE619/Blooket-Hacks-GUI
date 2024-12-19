@@ -45,7 +45,7 @@ Make sure you're running it properly (see [How to use](https://github.com/swaggi
 You should use the scripts ending in ".min.js", as using the others will have errors due to formatting.
 </details>
 
-<details><summary><h3>Can you give me infinite tokens, bypass daily limit, permanently give me blooks, change pack luck?</h3></summary>
+<details><summary><h3>Can you give me inf tokens, bypass daily limit, give me perma blooks, change pack luck?</h3></summary>
 
 No, these are things we would've already done if they were possible, they're managed on the backend of Blooket so we can't modify them
 </details>
