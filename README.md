@@ -67,7 +67,7 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 <details>
   <summary><h3>How do I do this on mobile?</h3></summary>
   
-  These scripts aren't made for mobile, so we don't really know how to get them to work on it.
+  Safari: head over into "Cheats>gui.min.js", then copy the javascipt by clicking the copy button. Then, head over to bookmarks and create a new bookmark with any name of your choice, then paste the javascript that you copied into the address. Next head over to blooket.com and login/sign up. Lastly, open/launch the bookmark while in the blooket website and bam! Happy cheating! 
   
   <details>
     <summary><h3>What's the Mobile GUI?</h3></summary>
