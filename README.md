@@ -39,51 +39,40 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 Make sure you're running it properly (see [How to use](https://github.com/BI66IE619/Blooket-Hacks-GUI#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/BI66IE619/Blooket-Hacks-GUI/issues)
 </details>
 
-<details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
 
-You should use the scripts ending in ".min.js", as using the others will have errors due to formatting.
-</details>
-
-<details><summary><h3>Can you give me inf tokens, bypass daily limit, give me perma blooks, change pack luck?</h3></summary>
-
-No, these are things we would've already done if they were possible, they're managed on the backend of Blooket so we can't modify them
-</details>
 
 <details><summary><h3>Can you make hacks for (game)</h3></summary>
 
 No
 </details>
 
+
+
 <details><summary><h3>Can you make more Battle Royale cheats</h3></summary>
 
 Battle Royale is a gamemode that works almost entirely on the host's end. The only thing we have control over is answering questions.
 </details>
+
+
 
 <details><summary><h3>What happened to Minesraft2 and 05Konz?</h3></summary>
 
 Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, so I took over since they wouldn't be able to and try to fix the cheats.
 </details>
 
-<details>
-  <summary><h3>How do I do this on mobile?</h3></summary>
-  
-  Safari: head over into "Cheats>gui.min.js", then copy the javascipt by clicking the copy button. Then, head over to bookmarks and create a new bookmark with any name of your choice, then paste the javascript that you copied into the address. Next head over to blooket.com and login/sign up. Lastly, open/launch the bookmark while in the blooket website and bam! Happy cheating! 
-  
+
+
   <details>
     <summary><h3>What's the Mobile GUI?</h3></summary>
     The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked on mobile and it's a lot neater for mobile use apparently so we just called it that.
   </details>
-</details>
 
 
 
 <details><summary><h2>List of Cheats</h2></summary>
 <h3>GUIs<h3>
   
-* [GUI](cheats/gui/gui.js)
-* [GUI Bookmarklet](cheats/gui/gui.min.js)
-* [Mobile GUI outdated](cheats/gui/mobileGui.js)
-* [Mobile GUI Bookmarklet outdated](cheats/gui/mobileGui.min.js)
+* [GUI] /cheat/GUI.js
 ### Global:
 - Auto Answer
 - Highlight Answers
