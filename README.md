@@ -23,8 +23,9 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
   <summary><h3>How to use</h3></summary>
   
   There are 2 good methods to using these scripts:
-  1. Copying the main GUI and running it in the inspect element console
-  2. Copying the .min.js GUI and using it as a bookmarklet
+  1. Copying the GUI.js code and running it in the inspect element console (if you want to on laptop/pc)
+  3. Copying the GUI.js code and using it as a bookmarklet
+     To make a bookmarklet, bookmark any page (it really doesnt matter), then go in and edit that bookmarked page, then delete the url and paste in the GUI.js code into the url input, then rename the bookmark to whatever you want. Now just open up blooket, login with your desired account, and boom... The script/hacks/whatever you want to call it should work now! Happy cheating!
   
 <details>
   <summary>What can I do if JavaScript is blocked?</summary>
@@ -72,7 +73,7 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 <details><summary><h2>List of Cheats</h2></summary>
 <h3>GUIs<h3>
   
-* [GUI] /cheat/GUI.js
+* [GUI](/cheat/GUI.js)
 ### Global:
 - Auto Answer
 - Highlight Answers
