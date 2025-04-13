@@ -4,7 +4,7 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 # READ FOR IMPORTANT INFO! | V2.
 
 <p align="center">Cheats being managed by BI66IE619.</p>
-<p align="center">🚨 THIS IS A PARODY GUI, THIS DOESN'T WORK CORRECTLY! 🚨</p>
+<p align="center">🚨 I (BI66IE619) DONT CONDONE TO THE USE OF THIS AS IT MAY LEAD TO TROUBLE WITH REPURCUSSIONS 🚨</p>
 <h3 align="center"><a href="https://discord.gg/ZDDcsr9SQZ">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
